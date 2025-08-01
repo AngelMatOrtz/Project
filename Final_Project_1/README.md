@@ -47,7 +47,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analyst in the US](images\Trending_skills_Data_Analyst.png)
+![Trending Top Skills for Data Analyst in the US](Images/trending_skills_data_analyst.png)
 
 ### **Insights:**
 
