@@ -90,7 +90,7 @@ plt.show()
 # Results
 ![Salary Distribution of Data Jobs in the US](Final_Project_1/Images/salary_distrution_for_data_roles.png)
 
-*Box plot Visualization of roles for top 6 data jobs.*
+*Box plot Visualization of roles for top 6 data jobs*
 
 ### **Insights:**
 
